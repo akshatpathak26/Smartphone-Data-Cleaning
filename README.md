@@ -1,5 +1,3 @@
-Here is a draft README.md file summarizing the key points of the data cleaning process documented in the Jupyter notebook:
-
 # Smartphone Data Cleaning
 
 This repository contains a Jupyter notebook (`data_cleaning_smartphone_data.ipynb`) that documents the process of cleaning a smartphone dataset (`smartphones.csv`). 
@@ -47,13 +45,4 @@ The Jupyter notebook performs the following data cleaning tasks:
 
 The notebook documents all data issues found, cleaning steps performed, and results.
 
-## Future Work
 
-Potential next steps:
-
-- Further outlier detection
-- Additional error handling 
-- Automated unit testing
-- Build ML models using the cleaned data
-
-Let me know if any part of the cleaning process is unclear!
